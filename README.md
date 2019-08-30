@@ -1,4 +1,4 @@
-# HGCN-JE/JR
+# HGCN-JE-JR
 
 Source code and datasets for IJCAI 2019 paper: ***Jointly Learning Entity and Relation Representations for Entity Alignment***.
 
