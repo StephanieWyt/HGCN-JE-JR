@@ -1,6 +1,6 @@
 # HGCN-JE-JR
 
-Source code and datasets for EMNLP 2019 paper: ***Jointly Learning Entity and Relation Representations for Entity Alignment***.
+Source code and datasets for EMNLP 2019 paper: ***[Jointly Learning Entity and Relation Representations for Entity Alignment](https://arxiv.org/pdf/1909.09317.pdf)***.
 
 ## Datasets
 
