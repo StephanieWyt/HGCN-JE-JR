@@ -1,6 +1,6 @@
 # Datasets
 
-> Please first download the datasets [here](http://59.108.48.35/HGCN-JE-JR_data.zip) and extract them into `data/` directory.
+> Please first download the datasets [here](https://drive.google.com/open?id=1mfaeLXdqFnOHLYBXiTHWI7MLwtfTgPYQ) and extract them into `data/` directory.
 
 Initial datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align) and [JAPE](https://github.com/nju-websoft/JAPE).
 We manually aligned more relations from the three datasets and removed the ambiguously aligned relation pairs to construct the test sets for relation alignment.
