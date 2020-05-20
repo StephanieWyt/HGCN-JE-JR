@@ -40,5 +40,19 @@ Take the dataset DBP15K (ZH-EN) as an example, the folder "zh_en" contains:
 ## Citation
 
 If you use this model or code, please cite it as follows:
-
-*Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang and Dongyan Zhao. Jointly Learning Entity and Relation Representations for Entity Alignment. In: EMNLP 2019.*
+```
+@inproceedings{wu2019jointly,
+    title = "Jointly Learning Entity and Relation Representations for Entity Alignment",
+    author = "Wu, Yuting  and
+      Liu, Xiao  and
+      Feng, Yansong  and
+      Wang, Zheng  and
+      Zhao, Dongyan",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    year = "2019",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1023",
+    doi = "10.18653/v1/D19-1023",
+    pages = "240--249",
+}
+```
